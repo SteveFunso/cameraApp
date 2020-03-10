@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_video_record.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\drawable-xhdpi\\ic_video_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_video_record.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\drawable-xxhdpi\\ic_video_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-mdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_filter_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_filter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_vid.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_vid.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_stop_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_pause_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_pause_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_stop_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_play_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_play_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_video_record.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\drawable-mdpi\\ic_video_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_select_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_video_play.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_pause_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_pause_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_video_play.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_camera2_video.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout-land\\fragment_camera2_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_vid.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_vid.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_vid.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_vid.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_activity_video_player.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_vid.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_vid.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_replay_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_replay_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_stop_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_video_record.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\drawable-xxxhdpi\\ic_video_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_filter_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_filter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_video_me.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_video_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_select_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_video_record.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\drawable-hdpi\\ic_video_record.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_play_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera2_video.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\fragment_camera2_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_select_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_pause_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_pause_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_content_video_player.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\content_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_video_play.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_video_me.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_video_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_stop_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_video_me.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_video_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_filter_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_filter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_video_play.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_vid.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_vid.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_play_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_select_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_video_play.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_replay_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_replay_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_replay_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_replay_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_replay_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_replay_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_select_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_select_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_stop_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_stop_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_filter_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_filter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_video_me.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_video_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_play_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_play_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_replay_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xhdpi\\ic_replay_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_pause_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxxhdpi\\ic_pause_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_video_me.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-hdpi\\ic_video_me.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_filter_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-mdpi\\ic_filter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_pause_btn.png.flat",
+        "source": "C:\\Users\\Timi\\Documents\\GitHub\\Android\\camera-samples-master\\camera-samples-master\\Camera2VideoJava\\Application\\src\\template\\res\\mipmap-xxhdpi\\ic_pause_btn.png"
+    }
+]

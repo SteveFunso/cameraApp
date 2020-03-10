@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+-->
+
+<resources>
+    <string name="app_name">Steves Video Studio</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This sample demonstrates how to record video using Camera2 API.
+            
+        
+        ]]>
+    </string>
+</resources>
